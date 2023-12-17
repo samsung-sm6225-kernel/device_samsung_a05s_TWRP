@@ -1,0 +1,7 @@
+# Storage
+external_storage.projid.enabled=1
+external_storage.casefold.enabled=1
+external_storage.sdcardfs.enabled=0
+
+# USB Config
+vendor.usb.use_ffs_mtp=1

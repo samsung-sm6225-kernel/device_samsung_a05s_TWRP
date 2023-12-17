@@ -1,0 +1,7 @@
+ro.board.platform=bengal
+ro.product.board=bengal
+vendor.usb.controller=4e00000.dwc3
+ro.boot.dynamic_partitions=true
+ro.secure=0
+ro.debuggable=1
+persist.service.adb.enable=1

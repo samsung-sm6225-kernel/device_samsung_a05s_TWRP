@@ -1,0 +1,2 @@
+/vendor/lib/modules/1.1/zsmalloc.ko:
+/vendor/lib/modules/1.1/zram.ko: /vendor/lib/modules/1.1/zsmalloc.ko
